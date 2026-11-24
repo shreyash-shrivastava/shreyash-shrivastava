@@ -1,22 +1,19 @@
-# Hi, I am [Your Full Name]!
+# Hi, I am Shreyash Shrivastava!
 
 ## About Me
 
 - B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
 
-- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-
-- Interested in: [Cybersecurity / AI-ML / Full-Stack Development / Data Science]
-
+ Al & Robotics Enthusiast | Python Developer | UAV & ROS | Building Al-Powered Robots, Drones & Autonomous Systems | Exploring Cloud Al & Co
 ## Technical Skills
 
 | Category | Technologies |
 
 |------------|-----------------------------------------------------|
 
-| Languages | Python (Beginner), Bash / Shell Scripting |
+| Languages | Python, Java, javascript, 
 
-| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Tools | ROS2, Gazebo, Open-CV, Git, GitHub, VS Code, Linux Terminal, Postman |
 
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
